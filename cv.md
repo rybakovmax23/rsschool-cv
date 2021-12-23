@@ -8,9 +8,9 @@
   * phone: +375(44)728-93-86
   * Telegram: @rybamax23
   
-## Summary
+## About me
 
-  *I am a former professional soccer player! I want to become a front-end developer! I am purposeful, sociable, learn fast, handle stressful situations well!*
+  *I am a former professional football player! I want to become a front-end developer! I am purposeful, sociable, learn fast, handle stressful situations well!*
   
 ## Skills 
 
