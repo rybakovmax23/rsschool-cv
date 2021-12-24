@@ -176,6 +176,12 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .icon_footer {
     width: 150%;
 }
+.rs_school {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 0 20px 0;
+}
 .rs {
     width: 10%;
 }
